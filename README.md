@@ -6,5 +6,5 @@ Roza is a biological researcher tasked with discovering new bacteria that tastes
 
 
 
-### Access my BellyButton webpage [here!](https://github.com/bgerrard5392/BellyButton_round3/blob/main/README.md).
+### Access my BellyButton webpage [here!](https://github.com/bgerrard5392/BellyButton_round3/blob/main/README.md)
 
